@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/spiritualjourney",
+    "prod_uri":"mysql://root:@localhost/spiritualjourney",
+    "tel_url":"https://t.me/shivanisharma7397",
+    "tw_url":"https://twitter.com/shivani_7397",
+    "gh_url": "https://github.com/shivanisharma7397",
+    "blog_name": "Spiritual Journey",
+    "tag_line": "Spirituality is not a Religion, being spiritual just means you are in touch with your own divine self.",
+    "gmail-user":"shivani8225929443@gmail.com",
+    "gmail-password":"shivani.py@7397",
+    "about_text": "Hello my name is Shivani, I write blog posts on Meditation.",
+    "no_of_posts": 2,
+    "login_image" : "login.png",
+     "admin_user":"shivani",
+    "admin_password": "shivanisharma",
+    "upload_location": " C:\\Users\\hp\\PycharmProjects\\Practice\\my blog website\\static"
+  }
+}
